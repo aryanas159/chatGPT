@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatGPT/static/css/main.50255e9b.css",
+    "main.js": "/chatGPT/static/js/main.873fcf88.js",
+    "static/media/backgroung.jpg": "/chatGPT/static/media/backgroung.b0f4c7cf6d5de89fcb11.jpg",
+    "static/media/OpenAI_Logo.svg": "/chatGPT/static/media/OpenAI_Logo.a302dc07a7fb1f5992ec1f366e9ec578.svg",
+    "index.html": "/chatGPT/index.html",
+    "main.50255e9b.css.map": "/chatGPT/static/css/main.50255e9b.css.map",
+    "main.873fcf88.js.map": "/chatGPT/static/js/main.873fcf88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50255e9b.css",
+    "static/js/main.873fcf88.js"
+  ]
+}
