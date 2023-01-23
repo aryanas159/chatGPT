@@ -7,7 +7,7 @@ function App() {
   const [res, setres] = React.useState('')
   const [spinning, setSpinning] = React.useState(false)
   const configuration = new Configuration({
-    apiKey: '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',
+    apiKey: process.env.REACT_APP_OPENAI_API_KEY,
   })
   const openai = new OpenAIApi(configuration)
   const createCompletion = async () => {
